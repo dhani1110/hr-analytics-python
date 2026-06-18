@@ -213,5 +213,3 @@ MIT License
 For questions, create an issue in the repository.
 
 ---
-
-**Made with ❤️ using Python, Flask, and SQL**
